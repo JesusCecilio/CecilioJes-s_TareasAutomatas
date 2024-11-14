@@ -1,0 +1,5 @@
+def operations (a, b, c):
+    op = a + b * c
+    return op
+
+print(operations(5, 6, 7))
